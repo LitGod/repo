@@ -1,8 +1,0 @@
-Origin: LitGod
-Label: LitGod
-Suite: stable
-Version: 0.1
-Codename: ios
-Architectures: iphoneos-arm64
-Components: main
-Description: LitGod - Repo for edited/modified open source tweaks.
