@@ -1,0 +1,9 @@
+Origin: LitGod
+Label: LitGod
+Suite: stable
+Version: 1.0
+Codename: litgodrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Repo.
+MD5Sum:
